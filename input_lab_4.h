@@ -1,0 +1,1 @@
+int n = 12, counter = 0;
